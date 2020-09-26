@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>D3 - Line Chart - continuous function</title>
+    <!-- script type="text/javascript" src="https://raw.github.com/jquery/sizzle/master/sizzle.js"></script -->
+    <script type="text/javascript" src="d3/d3.min.js"></script>
+    <script type="text/javascript" src="d3.slider/d3.slider.js"></script>
+    <script type="text/javascript" src="d3/d3.time.min.js"></script>
+    <link rel="stylesheet" href="d3.slider/d3.slider.css" />
+    <link rel="stylesheet" href="timeline.css" />
+    </head>
+  <body>
+
+   <div id="main">
+       <div class="wrapper">
+          <h2> Selected timespan: <span id="slidertextmin">-350</span> to <span id="slidertextmax">710</span></h2>
+	  <div id="slider"></div>
+	  <br>
+	  <br>
+	  <br>
+      </div>
+	
+      <div class="container">	
+      
+	  <div class="filters">
+	  
+
+	  
+	    <div class="tcolors">
+          
+	       <label><b>Display results by:</b>&nbsp;&nbsp;&nbsp;</label>
+	       <label class="categoryColor" id="content" onclick="toggleColors(this)"> Content </label>
+	       <label class="categoryColor" id="genre" onclick="toggleColors(this)"> Genre </label>
+	       <label class="categoryColor" id="style" onclick="toggleColors(this)" style="font-weight:bold; font-size:15px;"> Style </label>	  
+	       <label><input class="chkpart" type="checkbox" autocomplete="off" onclick="toggleFilterpartial(this)" checked>
+	       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	       &nbsp;&nbsp;&nbsp;&nbsp;<b>Relative results</b></label>
+	  
+	     </div>
+	  
+          </div>
+          
+
+          <div class="filters2"> 
+	        <div class="dat">
+	  
+	        </div>
+	        
+		<div class="tauthors">
+		    <div class="titleauth">
+			<span id=auth> Authors:</span>
+		    </div>
+		    <div class="authors">
+		    </div>
+		    
+		    <div class="chkbox">
+			<label><input class="chkaut" type="checkbox" autocomplete="off" onclick="toggleFilterauthors(this)"> Filter authors</label>
+		    </div>
+		</div>
+
+		<div class="tworks">
+		    <div class="titlework">
+			<span id=work> Works:</span>
+		    </div>
+		    <div class="works">
+		    </div>
+		    <div class="chkbox">
+			<label><input class="chkwork" type="checkbox" autocomplete="off" onclick="toggleFilterworks(this)"> Filter works</label>
+		    </div>
+		</div>
+		
+	  </div>
+	  
+      </div>
+      <div id="chart"></div>
+      
+      <div class="bottommenu">
+	  
+	  <button type="button" id="applyfilters" onclick="createVisualization()">APPLY FILTERS</button>
+	  <button type="button" id="clearfilters" onclick="window.location.reload()">RESET ALL</button>
+	  <button type="button" id="clearautors" onclick="resetAuthors()">Reset Authors</button>
+	  <button type="button" id="clearworks" onclick="resetWorks()">Reset Works</button>
+	  <button type="button" id="help" onclick='window.open("usage.html", "USAGE", "height=600,width=750,scrollbars=yes,resizable=yes")'>HELP</button>
+	  <button type="button" id="back" onclick="history.go(-1)">BACK</button>
+	  
+	  <label class="zoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<span id="zspan"><b>Zoom: </b></span>
+	  </label>
+	  <div class="wrapperzoom">
+	      <div id="sliderzoom"></div>
+	  </div>
+      </div>
+      <div id="statistics">
+          <br>
+	  <div id="statsTextbox">
+	  </div>
+	  <div id="rightTextbox">
+	  </div>
+      </div>
+      </div>
+   </div>
+   <script type="text/javascript" src="timeline.js"></script>
+   </body>
+</html>

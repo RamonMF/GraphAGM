@@ -1,0 +1,178 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  background-color: #fff;
+  width: 1050px;
+  height: 700px;
+  margin-top: 10px;
+  margin: 0;
+  padding: 0;
+}
+#main {
+  float: left;
+  width: 750px;
+}
+
+#sidebar {
+  position: absolute;
+  top: 35px;
+  left: 500px;
+  float: right;
+  width: 370px;
+}
+
+#sequence {
+  width: 550px;
+  height: 70px;
+}
+
+#stogglelegend {
+  top: 10px;
+  position: absolute;
+  right: 130px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#help, #back {
+  top: 234px;
+  position: absolute;
+  right: -95px;
+  background-color:#CCFF66;
+  background: linear-gradient(to bottom right, white, lightsteelblue);
+  color: black;
+  font-weight:bold;
+  min-width: 90px;
+  padding:5px;
+  margin: 5px 10px;
+  border: 1px solid #cdcdcd;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#back {
+  top: 269px;
+ }
+ 
+#help:hover {
+   background: linear-gradient(to bottom right, white, #CCFF33);
+ }
+ 
+#back:hover {
+  background: linear-gradient(to bottom right, white, #00CCFF);
+} 
+
+#legend {
+  position: absolute;
+  top: 34px;
+  left: 120px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#order {
+  position: absolute;
+  top: 16px;
+  left: 230px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#orderselection {
+  position: absolute;
+  top: 35px;
+  left: 230px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#filter1 {
+  position: absolute;
+  top: 35px;
+  left: 360px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#filter2 {
+  position: absolute;
+  top: 135px;
+  left: 360px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#filtertext {
+  position: absolute;
+  top: 16px;
+  left: 360px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#filterdata {
+  position: absolute;
+  top: 16px;
+  left: 360px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#filterdate {
+  position: absolute;
+  top: 116px;
+  left: 360px;
+  width: 120px;
+  padding: 5px 0 0 3px;
+}
+
+#sequence text, #legend, #orderselection text {
+  word-wrap: break-word;
+  font-weight: 600;
+  fill: #fff;
+}
+
+#chart {
+  position: relative;
+}
+
+#chart path {
+  stroke: #fff;
+}
+
+#explanation {
+  width: 310px;
+  text-align: left;
+  color: #000;
+}
+
+#percwords {
+  position: absolute;
+  top: 420px;
+  left: 90px;
+  font-size: 2.5em;
+}
+
+#percchars {
+  position: absolute;
+  top: 460px;
+  left: 90px;
+  font-size: 2.5em;
+}
+
+#percrelchars {
+  position: absolute;
+  top: 540px;
+  left: 90px;
+  width: 310px;
+  font-size: 2.5em;
+}
+
+#percrelwords {
+  position: absolute;
+  top: 500px;
+  left: 90px;
+  width: 310px;
+  font-size: 2.5em;
+}

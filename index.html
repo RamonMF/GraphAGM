@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Data visualization</title>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" type="text/css" href="portal.css">
+</head>
+
+<body>
+<div id="main">
+
+<div id="top">
+<h1>Visualization tool for a corpus of ancient greek technical works </h1>
+
+<p><h2>This tool focuses on the study of a corpus of ancient greek works in the
+period from 350 B.C. to 700 A.D. The tool consists of the following two graphs:</h2></p>
+</div>
+
+
+<div id="left">
+<div id=textleft>
+<h3>Timeline:</h3> Represents the distribution of works in time and its
+classification based on various attributes (content, type, style, etc.). The
+graph is interactive and can be filtered and adjusted by various parameters.
+Please look at the <a href="#" 
+onclick='javascript:window.open("timeline/usage.html", "USAGE", "height=600,width=750,scrollbars=yes,resizable=yes")'>
+help</a> for detailed instructions about this graph or click on the image to start.
+</div>
+<a href="timeline/index.html" class="timeline" title="Timeline"></a>
+
+</div>
+
+<div id="right">
+<div id=textright>
+<h3>Zoomable sunburst:</h3> Dynamic visualization of the categories, authors and
+works in a circular graph formed by one ring for every category, one ring for
+the authors and one for the works. The order of this rings can be changed
+dinamically. By moving the mouse over the graph a secuence of arcs is selected
+representing a subgroup of works. By clicking on some arc this becomes the
+center of the graph and its child-arcs are zoomed in allowing a more in detail
+view. Statistics of works/characters are showed for every selection. Please
+look at the <a href="#" 
+onclick='javascript:window.open("zoomable/usage.html", "USAGE", "height=600,width=750,scrollbars=yes,resizable=yes")'>
+help</a> for detailed instructions about this graph or click on the image to start.
+</div>
+<a href="zoomable/index.html" class="zoomable" title="Zoomable sunburst"></a>
+
+</div>
+
+</div>
+</body>
+</html>

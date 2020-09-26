@@ -1,0 +1,349 @@
+body {
+  font: 12px sans-serif;
+}
+
+.rules line, .rules path {
+  shape-rendering: crispEdges;
+  stroke: #000;
+}
+
+.rules .tick {
+}
+.rules .minor {
+  stroke: #BBB;
+}
+.rules .domain {
+  fill: none;
+}
+
+.grid .tick {
+  stroke: #CCC;
+}
+
+.series path {
+  fill: none;
+  stroke: #348;
+  stroke-width: 3px;
+}
+
+.wrapper {
+      width: 1145px;
+      margin-left: 25px;
+      margin-right: auto;
+    }
+
+#main {
+  width: 1200px;
+  margin-left: auto ;
+  margin-right: auto ;  
+}    
+    
+.bottommenu { 
+  display:inline-block; 
+}
+
+#applyfilters, #clearfilters, #clearautors, #clearworks, #help, #back {
+  background-color: #FFFF33;
+  background: linear-gradient(to bottom right, white, lightsteelblue);
+  color: black;
+  font-weight:bold;
+  min-width: 90px;
+  padding:5px;
+  margin: 5px 10px;
+  border: 1px solid #cdcdcd;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+#applyfilters {
+   background-color: #FF6333;
+   background: linear-gradient(to bottom right, white, green);
+ }
+
+#applyfilters:hover {
+   background: linear-gradient(to bottom right, white, #00FF33);
+ }
+ 
+
+#clearautors:hover, #clearworks:hover, #clearfilters:hover {
+    background: linear-gradient(to bottom right, white, #FF3333);
+ }
+ 
+#help {
+  background-color:#99FF99;
+} 
+
+#back:hover {
+  background: linear-gradient(to bottom right, white, #00CCFF);
+} 
+
+#help:hover {
+  background: linear-gradient(to bottom right, white, #CCFF33);
+}
+ 
+.filters2, .authors, .tworks, .works {
+  display:inline-block;
+  vertical-align: bottom;
+}
+
+.chkbox {
+  font-weight:bold;
+   background-color: #B9E6F8;
+}
+
+.dat {
+  display:inline-block;
+  vertical-align: bottom;
+}
+
+.filters {
+  padding-right: 10px;
+  display:inline-block;
+  vertical-align: bottom;
+}
+
+.tcolors {
+  display:block;
+  margin-left: 0px;
+  background-color: #B9E6F8;
+}
+
+.tauthors {
+  display:inline-block;
+  vertical-align: bottom;
+  width: 175px;
+}
+
+.tworks {
+  display:inline-block;
+  vertical-align: bottom;
+  width: 255px;
+}
+
+.titleauth, .titlework {
+    display:block;
+    vertical-align: center;
+}
+  
+#zspan {
+   font-size:16px;
+}  
+  
+.wrapperzoom {
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 13px;
+  margin-right: auto;
+  float: right;
+  background: linear-gradient(to right, white, blue);
+}
+
+.container {
+  display: inline-block ;
+  vertical-align: top;
+  padding-left: 20px; 
+}
+
+
+#Content {
+   background-color: #E0E6F8;
+   display: inline-block;
+   vertical-align: top;
+   height: 121px;
+   width: 130px;
+}
+
+#Style {
+   background-color: #E0E6F8;
+   display: inline-block;
+   vertical-align: top;
+   height: 121px;
+   width: 120px;
+}
+
+#Genre {
+   background-color: #E0E6F8;
+   display: inline-block;
+   vertical-align: top;
+   height: 121px;
+   width: 140px;
+}
+
+#Author {
+   background-color: #F0E6F8;
+   display: inline-block;
+   vertical-align: top;
+   height: 121px;
+}
+
+#Graph {
+   background-color: #E0E6F8;
+   display: inline-block;
+   vertical-align: top;
+   height: 121px;
+   width: 95px;
+}
+
+#Data {
+   background-color: #F0E6F8;
+   vertical-align: top;
+   height: 70px;
+   width: 90px;
+}
+
+#Date {
+   background-color: #F0E6F8;
+   display: inline-block;
+   vertical-align: bottom;
+   height: 71px;
+   width: 90px;
+}
+
+#Lines {
+   background-color: #F0E6F8;
+   display: inline-block;
+   vertical-align: top;
+   height: 141px;
+   width: 125px;
+}
+
+.tauthors, .tworks {
+   background-color: #F0E6F8;
+}
+
+.cont {
+  background-color: #E0E6F8;
+  border:0px solid #ccc;
+  width:180px;
+  display:inline-block;
+  vertical-align: top;
+  height: 106px;
+}
+
+.authors {
+  background-color: #F0E6F8;
+  border:0px solid #ccc;
+  width:175px;
+  display:inline-block;
+  vertical-align: top;
+  height: 102px;
+  overflow-y: scroll; 
+}
+
+.works{
+  background-color: #F0E6F8;
+  border:0px solid #ccc;
+  width:255px;
+  display:inline-block;
+  vertical-align: top;
+  height: 102px;
+  overflow-y: scroll; 
+}
+
+#auth, #work {
+   font-weight:bold;
+   font-size:16px;
+}
+
+div.tooltip {   
+  position: absolute;           
+  text-align: left;           
+  width: 160px;                  
+  height: 130px;                 
+  padding: 5px;             
+  font: 12px sans-serif;        
+  background: lightsteelblue;   
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;         
+}
+
+.red {
+  color:red;
+}
+
+.blue {
+  color:blue;
+}
+
+.green {
+  color:green;
+}
+
+.brown {
+  color:brown;
+}
+
+div.detail { 
+  position: relative;
+  top: -560px;
+  left: 25px;
+  text-align: left;  
+  width: 160px;                  
+  height: 150px;                 
+  padding: 5px;             
+  font: 12px sans-serif;        
+  background: #FFFF99;   
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;         
+}
+
+div.smalldiv {
+  position: absolute;           
+  text-align: center;           
+  width: 100px;                  
+  height: 15px;                 
+  padding: 5px;             
+  font: 12px sans-serif;        
+  color: white;
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;  
+}
+
+div.scrolldiv {
+  position: absolute;           
+  text-align: left;           
+  width: 200px;                  
+  height: 300px;                 
+  padding: 5px;    
+  overflow-x: auto;
+  overflow-y: auto;
+  font: 10px sans-serif; 
+  background: #A9D0F5;  
+  color: black;
+  border: 0px;      
+  border-radius: 8px;           
+  pointer-events: none;
+}
+
+.tit, .titno {
+  font-weight:bold; 
+  font-size:16px;
+}
+
+.chkpart {
+  float: right;
+}
+
+#statsTextbox {
+  position: relative;
+  display:inline-block;
+  vertical-align: top;
+  border:2px solid #ccc;
+  left: 10px;
+  width: 600px;
+  height: 80px;
+  background-color: #E0E6F8;
+}
+
+#rightTextbox {
+  display:inline-block;
+  vertical-align: top;
+  border:2px solid #ccc;
+  width: 565px;
+  height: 80px;
+  background-color: #E0E6F8;
+  overflow-y: auto;
+}

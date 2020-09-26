@@ -1,0 +1,132 @@
+work,mu,sigma,gauss,content,genre,style,author,works,books,words,chars,datebegin,dateend,data,date
+Elements XI-XII recensio b,-285,"11,667",NO,geometrical,treatise,canonical,Anonymous,1,1,10154,50648,-320,-250,exact,approximate
+Phaenomena recension b,40,120,NO,astronomical,treatise,canonical,Anonymous,1,1,9885,51978,-320,400,exact,approximate
+Optics recension b,40,120,NO,technical,treatise,canonical,Anonymous,1,1,10147,51982,-320,400,exact,approximate
+Phaenomena b alternative proofs,150,"116,667",NO,astronomical,compilation,canonical,Anonymous,1,NA,2355,11702,-200,500,exact,approximate
+Data alternative proofs,150,"116,667",NO,geometrical,compilation,canonical,Anonymous,1,NA,4289,19635,-200,500,exact,approximate
+Elements alternative proofs,150,"116,667",NO,geometrical,compilation,canonical,Anonymous,1,NA,10759,49470,-200,500,exact,approximate
+Elements XV,500,"6,667",NO,geometrical,compilation,mixed,Anonymous,1,1,2735,14815,480,520,exact,approximate
+Prolegomena to the Almagest,510,"6,667",NO,arithmetical,commentary,mixed,Anonymous,1,1,14591,93827,490,530,exact,approximate
+Geometrica,450,"83,333",NO,geometrical,compilation,canonical,metrological corpus,1,NA,32923,182718,200,700,exact,approximate
+Geodesy,450,"83,333",NO,geometrical,compilation,canonical,metrological corpus,1,1,4831,28066,200,700,exact,approximate
+On measures,450,"83,333",NO,geometrical,compilation,canonical,metrological corpus,1,1,5027,28107,200,700,exact,approximate
+Liber geeponicus,450,"83,333",NO,geometrical,compilation,canonical,metrological corpus,1,1,6534,36999,200,700,exact,approximate
+Definitiones,450,"83,333",NO,geometrical,compilation,canonical,metrological corpus,1,1,14597,88779,200,700,exact,approximate
+Stereometrica,450,"83,333",NO,geometrical,compilation,canonical,metrological corpus,1,NA,17529,94793,200,700,exact,approximate
+Scholia to Catoptrics,600,"33,333",NO,technical,compilation,mixed,Anonymous,1,NA,3055,14719,500,700,exact,approximate
+Scholia to Optics a,600,"33,333",NO,technical,compilation,mixed,Anonymous,1,NA,3666,18228,500,700,exact,approximate
+Scholia to Phaenomena,600,"33,333",NO,astronomical,compilation,mixed,Anonymous,1,NA,4666,23544,500,700,exact,approximate
+Scholia to Data and Catoptrics,600,"33,333",NO,geometrical,compilation,mixed,Anonymous,1,NA,567,3140,500,700,exact,approximate
+Scholia to Optics b,600,"33,333",NO,technical,compilation,mixed,Anonymous,1,NA,6307,31705,500,700,exact,approximate
+Scholia to Data,600,"33,333",NO,geometrical,compilation,mixed,Anonymous,1,NA,12633,59585,500,700,exact,approximate
+Scholia to Elements,600,"33,333",NO,geometrical,compilation,mixed,Anonymous,1,NA,131042,689841,500,700,exact,approximate
+Introduction to harmony,0,"33,333",SI,arithmetical,treatise,informal,Cleonides,1,1,3771,22502,-100,100,exact,approximate
+On machines,-100,"6,667",SI,technical,treatise,informal,Atheneus mechanicus,1,1,3650,22806,-160,-80,exact,exact
+Spherics,120,"6,667",SI,geometrical,treatise,canonical,Menelaus,1,3,"27800,21","152061,09",60,140,approximate,exact
+on Aratus’ Phaenomena,-120,"6,667",SI,astronomical,commentary,informal,Hipparchus,1,3,28806,166133,-180,-100,exact,exact
+On rising times,-125,"8,333",SI,arithmetical,treatise,canonical,Hypsicles,1,1,1824,10150,-200,-100,exact,exact
+Introduction to arithmetics,125,"8,333",SI,arithmetical,popularization,mixed,Nicomachus,1,2,22818,135667,50,150,exact,exact
+On burning mirrors,-125,"8,333",SI,geometrical,treatise,canonical,Diocles,1,1,"3895,65","17889,54",-200,-100,approximate,exact
+On the comparison of dodecahedron and icosahedron,-125,"8,333",SI,geometrical,treatise,canonical,Hypsicles,1,1,3721,19328,-200,-100,exact,exact
+Handbook of harmony,125,"8,333",SI,arithmetical,popularization,informal,Nicomachus,1,1,5039,31514,50,150,exact,exact
+The heavens,150,"16,667",SI,astronomical,popularization,informal,Cleomedes,1,2,24022,144637,100,200,exact,approximate
+On things useful to read Plato,150,"16,667",SI,arithmetical,popularization,informal,Theon of Smyrna,1,4,37750,220991,100,200,exact,approximate
+Fragmentum mathematicum bobiense,150,"83,333",SI,geometrical,treatise,mixed,Anonymous,1,NA,1057,5841,-100,400,exact,approximate
+Analemma,"152,5","5,833",SI,astronomical,treatise,canonical,Ptolemy,1,1,2172,12185,100,170,approximate,exact
+Harmonics,"152,5","5,833",SI,arithmetical,treatise,mixed,Ptolemy,1,3,29151,170555,100,170,exact,exact
+Geography I-III,"152,5","5,833",SI,technical,treatise,mixed,Ptolemy,1,3,34571,195970,100,170,exact,exact
+Tetrabiblos,"152,5","5,833",SI,astronomical,treatise,informal,Ptolemy,1,4,38146,239209,100,170,exact,exact
+On the criterion,"152,5","5,833",SI,astronomical,popularization,informal,Ptolemy,1,1,4013,23954,100,170,exact,exact
+Planetary hypotheses I,"152,5","5,8333333333",SI,astronomical,treatise,informal,Ptolemy,"0,3333333333",1,4396,25910,100,170,exact,exact
+Geography IV-VIII,"152,5","5,833",SI,technical,treatise,mixed,Ptolemy,1,5,53429,306903,100,170,exact,exact
+Psephophoria,"152,5","5,833",SI,astronomical,treatise,informal,Ptolemy,1,1,5058,31790,100,170,exact,exact
+Canobic inscription,"152,5","5,833",SI,astronomical,popularization,informal,Ptolemy,1,NA,740,3864,100,170,exact,exact
+Planetary hypotheses II,"152,5","5,8333333333",SI,astronomical,treatise,informal,Ptolemy,"0,3333333333",1,4396,25910,100,170,approximate,exact
+Phases,"152,5","5,833",SI,astronomical,treatise,informal,Ptolemy,1,1,9616,57249,100,170,exact,exact
+Almagest,"152,5","5,833",SI,astronomical,treatise,mixed,Ptolemy,1,13,175398,945009,100,170,exact,exact
+On contacts,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,2,"19832,02","107337,24",-240,-160,approximate,exact
+Determinate section,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,2,"27162,76","148483,19",-240,-160,approximate,exact
+On the comparison of dodecahedron and icosahedron,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,1,3721,19328,-240,-160,approximate,exact
+Cutting off of a space,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,2,"40230,59","221830,3",-240,-160,approximate,exact
+Vergings,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,2,"40549,32","223619,26",-240,-160,approximate,exact
+Loci plani,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,2,"47561,32","262976,24",-240,-160,approximate,exact
+Conics I–IV,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,4,60887,293310,-240,-160,exact,exact
+Cutting off of a ratio,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,2,"58398,06","323800,68",-240,-160,approximate,exact
+Conics V–VIII,-180,"6,667",SI,geometrical,treatise,canonical,Apollonius,1,4,70316,338734,-240,-160,approximate,exact
+Constructions,-200,"16,667",SI,technical,treatise,informal,Biton,1,1,2453,14105,-250,-150,exact,approximate
+Metrological compilation,200,"33,333",SI,geometrical,compilation,canonical,Diophanes,1,1,3211,18351,100,300,exact,approximate
+Measures of marbles and timber,200,"33,333",SI,geometrical,compilation,canonical,Didymus,1,1,1344,7557,100,300,exact,approximate
+Catasterismi,-210,"6,667",SI,astronomical,popularization,informal,Eratosthenes,1,1,7797,44654,-270,-190,exact,exact
+Paraskeuastika et poliorcetika,-220,"6,667",SI,technical,treatise,informal,Philo of Byzantium,1,1,9627,58542,-280,-200,exact,exact
+Belopoiica,-220,"6,667",SI,technical,treatise,informal,Philo of Byzantium,1,1,10934,65371,-280,-200,exact,exact
+On conoids and spheroids,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,1,22787,120675,-287,-212,exact,exact
+On the sphere and the cylinder,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,2,25741,134076,-287,-212,exact,exact
+Quadrature of a parabola,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,1,5815,29243,-287,-212,exact,exact
+Sand–reckoner,"-230,75","6,25",SI,technical,popularization,mixed,Archimedes,1,1,5051,29645,-287,-212,exact,exact
+Stomachion,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,1,"7082,92","35779,08",-287,-212,approximate,exact
+On floating bodies,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,2,8472,42812,-287,-212,exact,exact
+On the equilibrium of planes,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,2,9032,46593,-287,-212,exact,exact
+On the measurement of a circle,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,1,1093,5175,-287,-212,exact,exact
+Method,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,1,9848,54330,-287,-212,exact,exact
+On spirals,"-230,75","6,25",SI,geometrical,treatise,canonical,Archimedes,1,1,14407,75616,-287,-212,exact,exact
+Introduction to phaenomena,-25,"8,333",SI,astronomical,popularization,informal,Geminus,1,2,20169,121853,-100,0,exact,exact
+Spherics,-25,"8,333",SI,geometrical,treatise,canonical,Theodosius,1,3,26938,137364,-100,0,exact,exact
+On locations,-25,"8,333",SI,astronomical,treatise,canonical,Theodosius,1,1,4215,22458,-100,0,exact,exact
+On days and nights,-25,"8,333",SI,astronomical,treatise,canonical,Theodosius,1,2,18138,95636,-100,0,exact,exact
+On polygonal numbers,250,"16,667",SI,arithmetical,treatise,canonical,Diophantus,1,1,3502,17090,200,300,exact,approximate
+Arithmetica 6 books,250,"16,667",SI,arithmetical,treatise,canonical,Diophantus,"0,4615384615",6,43368,209277,200,300,exact,approximate
+Arithmetica lost 7 books,250,"16,667",SI,arithmetical,treatise,canonical,Diophantus,"0,5384615385",7,50596,244157,200,300,approximate,approximate
+On the section of a cylinder,250,"16,667",SI,geometrical,treatise,canonical,Serenus,1,1,12649,64828,200,300,exact,approximate
+On the section of a cone,250,"16,667",SI,geometrical,treatise,canonical,Serenus,1,1,19720,93124,200,300,exact,approximate
+Phaenomena,-260,"6,667",SI,astronomical,popularization,informal,Aratus,1,1,7718,49016,-320,-240,exact,exact
+Data,"-267,5","5,833",SI,geometrical,treatise,canonical,Euclid,1,1,19787,119281,-320,-250,exact,exact
+Sectio canonis,"-267,5","5,833",SI,arithmetical,treatise,canonical,Euclid,1,1,2428,12516,-320,-250,exact,exact
+Elements VII-IX,"-267,5","5,833",SI,arithmetical,treatise,canonical,Euclid,"0,2307692308",3,25424,156149,-320,-250,exact,exact
+Catoptrics,"-267,5","5,833",SI,technical,treatise,canonical,Euclid,1,1,5292,25947,-320,-250,exact,exact
+Loci on surfaces,"-267,5","5,833",SI,geometrical,treatise,canonical,Euclid,1,2,"48517,5","268343,11",-320,-250,approximate,exact
+Porisms,"-267,5","5,833",SI,geometrical,treatise,canonical,Euclid,1,3,"55210,78","305911,14",-320,-250,approximate,exact
+On the magnitudes and distances of the Sun and the Moon,"-267,5","5,833",SI,astronomical,treatise,canonical,Aristarchus,1,1,7037,33700,-320,-250,exact,exact
+Phaenomena,"-267,5","5,833",SI,astronomical,treatise,canonical,Euclid,1,1,8104,41758,-320,-250,exact,exact
+Division of figures,"-267,5","5,833",SI,geometrical,treatise,canonical,Euclid,1,1,"10270,2","53668,62",-320,-250,approximate,exact
+Optics,"-267,5","5,833",SI,technical,treatise,canonical,Euclid,1,1,11102,55986,-320,-250,exact,exact
+Elements I-VI and X-XIII,"-267,5","5,833",SI,geometrical,treatise,canonical,Euclid,"0,7692307692",10,127282,782330,-320,-250,exact,exact
+on Ptolemy’s Harmonics,"283,75","7,083",SI,arithmetical,commentary,informal,Porphyry,1,3,58640,337942,220,305,exact,exact
+On the comparison of the five figures,-285,"11,667",SI,geometrical,treatise,canonical,Aristaeus,1,1,37210,19328,-320,-250,approximate,approximate
+On moved sphere,-285,"11,667",SI,astronomical,treatise,canonical,Autolycus,1,1,4398,22795,-320,-250,exact,approximate
+Solid loci,-285,"11,667",SI,geometrical,treatise,canonical,Aristaeus,1,5,"48517,5","268343,11",-320,-250,approximate,approximate
+On rising and settings,-285,"11,667",SI,astronomical,treatise,canonical,Autolycus,1,2,10174,54549,-320,-250,exact,approximate
+On music,300,"33,333",SI,arithmetical,treatise,informal,Aristides Quintilianus,1,3,30881,185990,200,400,exact,approximate
+On common mathematical science,"302,5","5,833",SI,arithmetical,popularization,informal,Iamblichus,1,1,19961,121541,250,320,exact,exact
+On the arithmetics of Nicomachus,"302,5","5,833",SI,arithmetical,popularization,informal,Iamblichus,1,1,27380,164099,250,320,exact,exact
+"on Almagest I-III,VII-XIII",340,"6,667",SI,astronomical,commentary,mixed,Pappus,"0,8461538462",11,333855,1800694,280,360,approximate,exact
+on Almagest V–VI,340,"6,667",SI,astronomical,commentary,mixed,Pappus,"0,1538461538",2,60701,327399,280,360,exact,exact
+Collection II-VII,340,"6,667",SI,geometrical,treatise,canonical,Pappus,"0,875",6,125153,599046,280,360,exact,exact
+on Elements X,340,"6,667",SI,geometrical,commentary,mixed,Pappus,1,2,"11863,83","62613,39",280,360,approximate,exact
+Collection VIII,340,"6,667",SI,technical,treatise,mixed,Pappus,"0,125",1,12328,67751,280,360,exact,exact
+Little Commentary on the Handy Tables,380,"6,667",SI,astronomical,commentary,mixed,Theon,1,1,16228,101498,320,400,exact,exact
+on Almagest V-XIII,380,"6,667",SI,astronomical,commentary,mixed,Theon,"0,6923076923",9,326848,1851280,320,400,approximate,exact
+Great Commentary on the Handy Tables,380,"6,667",SI,astronomical,commentary,mixed,Theon,1,5,34869,207420,320,400,exact,exact
+on Almagest I-IV,380,"6,667",SI,astronomical,commentary,mixed,Theon,"0,3076923077",4,145266,822791,320,400,exact,exact
+To Paeonium on a gift,"407,5","4,167",SI,astronomical,popularization,informal,Synesius,1,1,1776,11264,370,420,exact,exact
+Outline of astronomical models,"466,75","6,083",SI,astronomical,popularization,mixed,Proclus,1,1,24324,142422,412,485,exact,exact
+on Euclid’s Elements I,"466,75","6,083",SI,geometrical,commentary,mixed,Proclus,1,1,81543,475800,412,485,exact,exact
+Manual of arithmetics,480,"6,667",SI,arithmetical,popularization,informal,Domninus,1,1,5779,35564,420,500,exact,exact
+Optical hypotheses,490,"13,333",SI,technical,popularization,informal,Damianus,1,1,2002,11751,450,530,exact,approximate
+Metrica,50,"16,667",SI,geometrical,treatise,canonical,Hero,1,1,20964,106964,0,100,exact,approximate
+Pneumatics,50,"16,667",SI,technical,treatise,canonical,Hero,1,2,22324,128740,0,100,exact,approximate
+Mechanics,50,"16,667",SI,technical,treatise,canonical,Hero,1,3,"31306,22","171739,59",0,100,approximate,approximate
+Belopoiica,50,"16,667",SI,technical,treatise,mixed,Hero,1,1,5383,31416,0,100,exact,approximate
+On mirrors,50,"16,667",SI,technical,treatise,canonical,Hero,1,1,"10270,2","53668,62",0,100,approximate,approximate
+Automates,50,"16,667",SI,technical,treatise,canonical,Hero,1,1,9055,54448,0,100,exact,approximate
+Cheiroballistra,50,"16,667",SI,technical,treatise,mixed,Hero,1,1,1057,5770,0,100,exact,approximate
+Dioptra,50,"16,667",SI,technical,treatise,mixed,Hero,1,1,13081,71980,0,100,exact,approximate
+on Data,"502,5","5,833",SI,geometrical,commentary,informal,Marinus,1,1,2561,15444,450,520,exact,exact
+On surprising mechanisms,"515,5","6,167",SI,geometrical,treatise,mixed,Anthemius,1,1,1982,11244,460,534,exact,exact
+on On sphere and cylinder,530,"6,667",SI,geometrical,commentary,mixed,Eutocius,1,2,29905,144791,470,550,exact,exact
+on Measurement of a circle,530,"6,667",SI,geometrical,commentary,mixed,Eutocius,1,1,3187,16618,470,550,exact,exact
+on On equilibrium of planes,530,"6,667",SI,geometrical,commentary,mixed,Eutocius,1,2,7224,35111,470,550,exact,exact
+on Conica,530,"6,667",SI,geometrical,commentary,mixed,Eutocius,1,NA,20049,98945,470,550,exact,exact
+on Nicomachus’ Arithmetics,550,"6,667",SI,arithmetical,commentary,informal,Asclepius,1,1,33595,181164,490,570,exact,exact
+On the use of the astrolabe,550,"6,667",SI,astronomical,popularization,informal,Philoponus,1,1,7755,46631,490,570,exact,exact
+on Handy Tables,640,"6,667",SI,astronomical,commentary,mixed,Stephanus,1,1,24333,142388,580,660,exact,exact
+Poliorcetica,90,"13,333",SI,technical,treatise,informal,Apollodorus,1,1,5935,36926,50,130,exact,approximate

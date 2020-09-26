@@ -1,0 +1,135 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title></title>
+  <style type="text/css">
+        <!--
+body {width: 700px; }
+p { color: #000000; text-align: justify}
+h2 { color: #000000; background-color: #F0F0F0; }
+h3 { color: #000000; background-color: #CCCCFF; }
+-->
+
+  </style>
+</head>
+
+<body lang="en-US" text="#000000" dir="ltr" style="background: transparent">
+<h2 class="western">Usage</h2>
+
+<p></p>
+
+<h3><font size="4" style="font-size: 14pt">1. Introduction</font></h3>
+
+<p>Works are classified into three categories: <strong>Content</strong>,
+<strong>Genre</strong> and <strong>Style</strong> and every category is
+represented as a ring in the sunburst. <strong>Authors</strong> and
+<strong>works</strong> are also represented by its own ring (black and grey
+respectively). A ring consists of arcs representing the percentage of words
+classified in that category, author or work. Categories and values can be
+distinguished by its colours. Look at the "Legend" to consult the
+colour-value correspondence.</p>
+
+<p></p>
+
+<p><img src="images/sunburst.png" name="Sunburst" width="520" height="500"
+border="0"> <img src="images/legend.png" name="Sunburst" width="127"
+height="450" border="0"> </p>
+
+<p></p>
+
+<p>Moving the mouse over the graph makes the hovered arcs of the graph
+visible.</p>
+
+<p><img src="images/selection.png" name="Sunburst" width="520" height="500"
+border="0"></p>
+
+<p></p>
+
+<p></p>
+
+<p>And a breadcrumb with the names of the selected category-value sequence is
+showed. </p>
+
+<p><img src="images/breadcrumb2.png" name="Sunburst" width="660" height="50"
+border="0"></p>
+
+<p></p>
+
+<p>At the same time, at the bottom-right part of the graph the percentage of
+words and chars in the current sequence is shown.</p>
+
+<p><img src="images/percentages2.png" name="Sunburst" width="380" height="200"
+border="0"></p>
+
+<p>The first two percentages are in relation to the total works in the database
+and the second two are in relation to the currently selected works.</p>
+
+<p></p>
+
+<h3><font size="4" style="font-size: 14pt">2. Filters</font></h3>
+
+<p>Some dates or data of the works contained in the database are not exact.
+With the blue buttons at the right part of the screen we can filter by
+exact/inexact data/dates. If any button is pressed it turns gray and
+automatically all works of the corresponding criteria are excluded and the
+sunburst is updated. If all buttons are grey simultaneosly then no graph will
+be shown because all works will be excluded.</p>
+
+<p><img src="images/data_date.png" name="Sunburst" width="150" height="200"
+border="0"></p>
+
+<p><br>
+</p>
+
+<p></p>
+
+<h3><font size="4" style="font-size: 14pt"><span lang="en-US">3. Zooming</span></font></h3>
+
+<p>Clicking on any arc of the graph zooms in and turns the selected arc into
+the new root (center) of the sunburst. This is very useful to study smaller
+sections of the graph in detail.</p>
+
+<p><br>
+</p>
+
+<p><img src="images/zoomed.png" name="Sunburst" width="700" height="450"
+border="0"></p>
+
+<p></p>
+
+<p>In the example above we have zoomed-in into astronomical-treatise-canonical
+works. The detail view shows the six authors and their corresponding works and
+relative percentages. </p>
+
+<p></p>
+
+<h3><font size="4" style="font-size: 14pt">4. Reordering categories</font></h3>
+
+<p align="left">The default order of the categories, authors and works can be
+changed using the ordering buttons between the legend and the data/date
+buttons. The first button corresponds to the center of the graph and so on.</p>
+
+<p>Clicking on one of this buttons makes it change its position with the
+category that is one place upwards. </p>
+
+<p>In four words: CLICK TO MOVE UP.</p>
+
+<p><img src="images/order_normal.png" name="Sunburst" width="170" height="250"
+border="0"><img src="images/order_chk.png" name="Sunburst" width="120"
+height="210" border="0"></p>
+
+<p></p>
+
+<p>If the selected category is already at the first place then its position is
+changed with the last one of the list. </p>
+
+<p><img src="images/order_chk.png" name="Sunburst" width="120"
+height="210" border="0"><img src="images/order_overflow.png" name="Sunburst" width="180"
+height="240" border="0"></p>
+
+<p>The graph is updated automatically with every change.</p>
+
+<p><img src="images/orderchanged.png" name="Sunburst" width="350"height="350" border="0"></p>
+</body>
+</html>

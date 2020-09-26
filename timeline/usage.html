@@ -1,0 +1,215 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<title></title>
+	<style type="text/css">
+	<!--
+	    body {width: 700px; }
+		p { color: #000000; text-align: justify}
+		h2 { color: #000000; background-color: #F0F0F0; }
+		h3 { color: #000000; background-color: #CCCCFF; }
+	-->
+	</style>
+</head>
+<body lang="en-US" text="#000000" dir="ltr" style="background: transparent" >
+<h2 class="western">Usage</h2>
+<p><font size="4" style="font-size: 14pt"><h3>1. Time period seek-bar</h3></font></p>
+<p><img src="images/timeline.png" name="Imagen1" align="bottom" width="397" height="84" border="0"></p>
+<p>As it's not possible to know precisely when ancient texts where
+written, it's necessary to estimate the most probable time period;
+therefore, every work is represented as a statistical function
+(normal or trapezoidal) based on several factors, such as it's
+author's lifetime.</p>
+<p>The seek-bar at the top of the page is useful to select and obtain
+statistics for a shorter time period. Only the works within the
+selected period are considered. In case the selected time period cuts
+the work's estimated period, then not the whole text is considered
+but only the number of works, words and chars corresponding to the
+part inside the selection. If a work is cut its density function is
+represented only as a line, without filling.</p>
+<p>Whole work:</p>
+<p><img src="images/whole.png" name="Imagen2" align="
+bottom" width="598" height="206" border="0"></p>
+<p>Partial work: 
+</p>
+<p><img src="images/partial.png" name="Imagen3" align="bottom" width="461" height="154" border="0"></p>
+<p>Changes in the time period seek-bar are NOT applied immediately.
+To apply changes you have to click on the “Apply filters”
+button.</p>
+<p align="left"><img src="images/applyfilters.png" name="Imagen8" align="bottom" width="129" height="33" border="0"></p>
+<p><br><br>
+</p>
+<p><font size="4" style="font-size: 14pt"><span lang="en-US"><h3>2.
+Category and graph selection</h3></span></font></p>
+<p><img src="images/category.png" name="Imagen4" align="bottom" width="486" height="138" border="0"></p>
+<p><i><b>a) Category selection</b></i></p>
+<p><span lang="en-US">Works</span> <span lang="en-US">are</span>
+<span lang="en-US">classified into three categories:</span> <span lang="en-US"><i><b>Content</b></i></span><span lang="en-US">,
+</span><span lang="en-US"><i><b>Genre</b></i></span> <span lang="en-US">and
+</span><span lang="en-US"><i><b>Style</b></i></span><span lang="en-US">.
+By clicking on any category title, the actual selection is inverted,
+so if </span><span style="font-variant: normal"><span lang="en-US"><span style="font-style: normal"><span style="font-weight: normal">we
+want to select all values of a category we can do it with only one click.</span></span></span></span></p>
+<p style="font-variant: normal; font-style: normal; font-weight: normal">
+The colors of the values are the same used in the graph to
+draw the density functions and the cumulative functions.</p>
+<p><span style="font-variant: normal"><span lang="en-US"><span style="font-style: normal"><span style="font-weight: normal">Actions
+on this menu are applied immediately to the graph.</span></span></span></span></p>
+<p style="font-variant: normal; font-style: normal; font-weight: normal">
+Only selected category values are included to construct the filter. If
+no value of a category is selected then the category is ignored. For example,
+to draw only Arithmetical works it's not necessary to select all
+values from the other categories. The filter string created in
+this example would be: 
+</p>
+<p align="center" style="font-variant: normal; font-style: normal; font-weight: normal">
+<font color="#3333ff">(d.Content == &quot;arithmetical&quot;)</font></p>
+<p align="left"><i><b>b) The Graph menu</b></i></p>
+<p align="left"><span lang="en-US">This menu determines what value is
+compared and represented by the graph: </span><span lang="en-US"><i><b>Works</b></i></span><span style="font-variant: normal"><span lang="en-US"><span style="font-style: normal"><span style="font-weight: normal">,</span></span></span></span>
+<span lang="en-US"><i><b>Words</b></i></span><span style="font-variant: normal"><span lang="en-US"><span style="font-style: normal"><span style="font-weight: normal">,
+or </span></span></span></span><span lang="en-US"><i><b>Chars</b></i></span><span lang="en-US"><b>.
+</b></span>
+</p>
+<p align="left"><i><b>c) Display results by</b></i></p>
+<p align="left" style="font-variant: normal; font-style: normal; font-weight: normal">
+This menu works like a radio-button.</p>
+<p align="left" style="font-variant: normal; font-style: normal; font-weight: normal">
+The density functions representing the works in the graph are colored
+according to the color of the category values selected
+in this menu. The panel situated at the bottom-right of the page also
+shows only the statistics corresponding to the selected category.</p>
+<p><i><b>d) Relative results</b></i></p>
+<p>This check-box determines if the cumulative functions in the graph
+are calculated in relation to the total works in the database or only
+to the works in the current selection. The default value is "checked". 
+</p>
+<p><br><br>
+</p>
+<p><font size="4" style="font-size: 14pt"><h3>3. Data / Date / Authors
+/ Works and Lines</h3></font></p>
+<p><img src="images/authors.png" name="Imagen5" align="bottom" width="664" height="149" border="0"></p>
+<p><i><b>a) Data / Date</b></i></p>
+<p>Some dates or data of the works contained in the database are not
+exact. With this menu we can filter by exact/inexact data/dates. Any
+change in this menu is applied immediately.</p>
+<p><i><b>b) Authors</b></i> 
+</p>
+<p>The selection can be filtered by author if the check-box &quot;Filter
+authors&quot; and some author are selected.
+</p>
+<p>If an author is selected / deselected automatically all works of
+this author are selected / deselected too. 
+</p>
+<p>Changes in the “Filter authors” check-box are applied
+immediately but changes on the individual authors do NOT. If the
+check-box “Filter authors” is already selected we can use the
+yellow button “Apply filters” to apply all new changes to the
+graph.</p>
+<p align="left"><img src="images/applyfilters.png" name="Imagen6" align="bottom" width="129" height="33" border="0"></p>
+<p><i><b>c) Works</b></i></p>
+<p style="font-variant: normal; font-style: normal; font-weight: normal">
+The selection can be filtered by works if the check-box “Filter
+works” and some work are selected.</p>
+<p style="font-variant: normal; font-style: normal; font-weight: normal">
+If a work is selected automatically it's author is selected too. If
+ALL works of any author are deselected it's author is deselected too.</p>
+<p style="font-variant: normal; font-style: normal; font-weight: normal">
+Changes in the “Filter works” check-box are applied immediately
+but changes on the individual works do NOT. If the check-box “Filter
+works” is already selected we can use the button “Apply
+filters” to apply all new changes to the graph.</p>
+<p align="left" style="font-variant: normal"><img src="images/applyfilters.png" name="Imagen9" align="bottom" width="129" height="33" border="0"></p>
+<p><i><b>d) Lines</b></i></p>
+<p>With this menu the lines corresponding to the Global cumulative
+function, the cumulative function for every category and the global
+density function can be hidden or shown.</p>
+<p>Note that the cumulative functions of the categories are only
+drawn if any value of the corresponding category is selected.</p>
+<p>Changes in this menu are applied immediately. Click on the title
+(“Lines:”) inverts the current selection.</p>
+<p><br><br>
+</p>
+<p><font size="4" style="font-size: 14pt"><h3>4. Bottom buttons menu</h3></font></p>
+<p><img src="images/bottom.png" name="Imagen7" align="bottom" width="680" height="34" border="0"></p>
+<p><i><b>a) Apply filters</b></i></p>
+<p>This button applies all pending changes made to the time period
+seek-bar and to the authors and works check-boxes.</p>
+<p><i><b>b) Reset all</b></i></p>
+<p style="font-variant: normal; font-style: normal; font-weight: normal">
+This button resets the whole web-site to its default values.</p>
+<p><i><b>c) Reset Authors</b></i></p>
+<p>De-select all authors check-boxes. Note that this action does NOT
+affect to the works check-boxes. 
+</p>
+<p><i><b>d) Reset Works</b></i></p>
+<p style="font-variant: normal; font-style: normal; font-weight: normal">
+De-select all works check-boxes. Note that this action does NOT
+affect to the authors check-boxes. 
+</p>
+<p><i><b>e)</b></i> <i><b>Zoom</b></i><br><br>In the case of the
+density functions the graph doesn't represent absolute values, but
+only the relation between them. So it's possible to use the zoom
+seek-bar to scale the graph to the desired size. The lines
+corresponding to the cumulative functions are not affected by this
+seek-bar. <br>
+</p>
+<p><i><b>f)</b></i> <i><b>Help</b></i><br><br>Opens a new window with the usage instructions.<br>
+</p>
+<p><i><b>g)</b></i> <i><b>Back</b></i><br><br>Return to the main page.<br><br><br>
+</p>
+<p><font size="4" style="font-size: 14pt"><h3>5. Statistics</h3></font>
+The panel at the bottom shows the global and partial statistics of the
+current selection.</p>
+<p align="left"><img src="images/statsleft.png" name="Left" align="bottom" width="297" height="77" border="0">
+<img src="images/statsright.png" name="Right" align="bottom" width="297" height="87" border="0"></p>
+<p align="left">The first line of the bottom-left panel shows the
+number of selected works and the percentage in relation to the total
+works of the database. Note that this value can include decimals as
+the time period selection could cut some works as showed at the first
+section of this help.</p>
+<p align="left">The second and third lines show the number of
+words/chars selected in relation to the sum of the total words/chars
+in the database.</p>
+<p align="left">The bottom-right panel depends on the selected
+category (see section 2b). The first line shows the percentage of
+works/words/chars of every value in the currently selected category, the percentage in relation to
+the total selected works/words/chars and the percentage in relation
+to the total works/words/chars of all works in the database.</p>
+<p align="left"><br><br>
+</p>
+<p align="left"><font size="4" style="font-size: 14pt"><h3>6. The
+graph</h3></font></p>
+<p align="left"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">The
+X-axis represents</span></font> <font size="3" style="font-size: 12pt"><span style="font-weight: normal">time
+in years and the Y-axis represents percentage from 0 to 100%.</span></font><br><br><b>a)
+Single texts:</b> After applying the filters, the resulting graph
+shows the density function of every single work. Depending on the
+selected value in the menu “Graph” (see section 2b) it represents
+the number of works, the number of works or the number of chars of
+the work. Passing the mouse over the representations a tool-tip shows
+some details of the hovered work. A click on the text sticks another
+tool-tip at the top-left of the graph with the details of the text. 
+</p>
+<p align="left"><img src="images/popups.png" name="Bild1" align="bottom" width="520" height="387" border="0"><br><br><b>b)
+CDFs.</b> The colored lines represent the cumulative density
+functions of the selected category-values. To show the cdf without
+affecting the result set simply select all the values of any
+category. Hovering over the line shows a tool-tip with the name of
+its corresponding category-values and a list with the authors and works
+corresponding to this year AND CATEGORY.</p>
+<p align="left"><img src="images/cat_popup.png" name="Bild2" align="bottom" width="357" height="274" border="0"></p>
+<p align="left"><b>c) Total CDF.</b> The black line represents the
+cumulative density function of all the results If the &quot;Relative results&quot; check-box
+is selected (see section 2d) this line should always end at the 100%
+value. A click on this line shows a list with the authors and works
+corresponding to this year (and ALL categories).</p>
+<p align="left"><img src="images/cdf.png" name="Imagen14" align="bottom" width="399" height="434" border="0"><br><br><b>d)
+Global density function.</b> 
+</p>
+<p align="left">The red line represents the density function of the
+current selection.</p>
+<p align="left"><img src="images/density.png" name="Imagen15" align="bottom" width="680" height="288" border="0"></p>
+</body>
+</html>

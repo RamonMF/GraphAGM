@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+   <meta charset="utf-8">
+    <title>Sequences zoomable sunburst</title>
+    <script src="d3.v3.min.js"></script>
+    <link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Open+Sans:400,600">
+    <link rel="stylesheet" type="text/css" href="zoomable.css"/>
+  </head>
+  <!-- Shows white separation lines between areas. -->
+  <style> 
+    path {
+    stroke: #fff;
+    fill-rule: evenodd;
+  }
+  </style>
+  <body>
+    <div id="main">
+      <div id="sequence"></div>
+      <div id="chart">
+      </div>
+    </div>
+    <div id="sidebar">
+      <label id="order">Click to select order</label>
+      <span id=stogglelegend><input type="checkbox" id="togglelegend" autocomplete="off" checked> Legend<br/></span>
+      <button type="button" id="help" onclick='window.open("usage.html", "USAGE", "height=600,width=750,scrollbars=yes,resizable=yes")'>HELP</button>
+      <button type="button" id="back" onclick="history.go(-1)">BACK</button>
+      <div id="legend" style="visibility: "";"></div>
+      <div id="orderselection"></div>
+      <div id="filterdata">Data</div>
+      <div id="filter1"></div>
+      <div id="filterdate">Date</div>
+      <div id="filter2"></div>
+      <div id="explanation" style="visibility: hidden">
+          <span id="percwords"></span>
+          <span id="percchars"></span>
+          <span id="percrelchars"></span>
+          <span id="percrelwords"></span>
+      </div>
+    </div>
+    <script type="text/javascript" src="zoomable.js"></script>
+    <script type="text/javascript">
+      // Hack to make this example display correctly in an iframe on bl.ocks.org
+      d3.select(self.frameElement).style("height", "700px");
+  </script> 
+  </body>
+</html>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+
+
+ 
