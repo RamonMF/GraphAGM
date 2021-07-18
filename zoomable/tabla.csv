@@ -4,7 +4,7 @@ Planisphere,130,"6,67",YES,astronomical,treatise,canonical,Ptolemy,Planisphere,1
 Stomachion,"-249,5","6,25",YES,geometrical,treatise,canonical,Archimedes,Stomachion,1,7110,27001,-287,-212,approximate,exact
 Division of figures,-280,"6,67",YES,geometrical,treatise,canonical,Euclid,Division of figures,1,10250,42101,-320,-240,approximate,exact
 On mirrors,50,"16,67",YES,technical,treatise,canonical,Hero of Alexandria,On mirrors,1,10250,42101,0,100,approximate,approximate
-on Euclid’s Elements X,320,"6,67",YES,geometrical,commentary,mixed,Pappus,on Euclid’s Elements X,1,11820,49651,280,360,approximate,exact
+on Euclidâ€™s Elements X,320,"6,67",YES,geometrical,commentary,mixed,Pappus,on Euclidâ€™s Elements X,1,11820,49651,280,360,approximate,exact
 On contacts,-200,"6,67",YES,geometrical,treatise,canonical,Apollonius,On contacts,1,19670,87401,-240,-160,approximate,exact
 Determinate section,-200,"6,67",YES,geometrical,treatise,canonical,Apollonius,Determinate section,1,26892,122131,-240,-160,approximate,exact
 Spherics M,100,"6,67",YES,geometrical,treatise,canonical,Menelaus,Spherics,1,27520,125151,60,140,approximate,exact
@@ -29,10 +29,10 @@ Introduction to harmony,0,"33,33",YES,arithmetical,treatise,informal,Cleonides,I
 Manual of arithmetics,460,"6,67",YES,arithmetical,popularization,informal,Domninus,Manual of arithmetics,1,5779,30016,420,500,exact,exact
 On common mathematical science,290,"6,67",YES,arithmetical,popularization,informal,Iamblichus,On common mathematical science,1,19961,104530,250,330,exact,exact
 On music,300,"33,33",YES,arithmetical,treatise,informal,Aristides Quintilianus,On music,1,30881,159217,200,400,exact,approximate
-on Nicomachus’ Arithmetics A,530,"6,67",YES,arithmetical,commentary,informal,Asclepius,on Nicomachus’ Arithmetics,1,33595,152396,490,570,exact,exact
-on Nicomachus’ Arithmetics P,530,"6,67",YES,arithmetical,commentary,informal,Philoponus,on Nicomachus’ Arithmetics,1,67622,304299,490,570,exact,exact
+on Nicomachusâ€™ Arithmetics A,530,"6,67",YES,arithmetical,commentary,informal,Asclepius,on Nicomachusâ€™ Arithmetics,1,33595,152396,490,570,exact,exact
+on Nicomachusâ€™ Arithmetics P,530,"6,67",YES,arithmetical,commentary,informal,Philoponus,on Nicomachusâ€™ Arithmetics,1,67622,304299,490,570,exact,exact
 On polygonal numbers,250,"16,67",YES,arithmetical,treatise,canonical,Diophantus,On polygonal numbers,1,3502,14141,200,300,exact,approximate
-on Ptolemy’s Harmonics,265,"6,67",YES,arithmetical,commentary,informal,Porphyry,on Ptolemy’s Harmonics,1,58640,284546,225,305,exact,exact
+on Ptolemyâ€™s Harmonics,265,"6,67",YES,arithmetical,commentary,informal,Porphyry,on Ptolemyâ€™s Harmonics,1,58640,284546,225,305,exact,exact
 On rising times,-160,"6,67",YES,arithmetical,treatise,canonical,Hypsicles,On rising times,1,1824,8511,-200,-120,exact,exact
 On the arithmetics of Nicomachus,290,"6,67",YES,arithmetical,popularization,informal,Iamblichus,On the arithmetics of Nicomachus,1,27380,137179,250,330,exact,exact
 On things useful to read Plato,150,"16,67",YES,arithmetical,popularization,informal,Theon of Smyrna,On things useful to read Plato,1,37750,184816,100,200,exact,approximate
@@ -47,16 +47,16 @@ Analemma,130,"6,67",YES,astronomical,treatise,canonical,Ptolemy,Analemma,1,2172,
 astronomical papyri,400,"173,21",NO,astronomical,compilation,algorithmic,Anonymous,astronomical papyri,1,10000,45000,100,700,approximate,approximate
 Canobic inscription,130,"6,67",YES,astronomical,popularization,informal,Ptolemy,Canobic inscription,1,740,3257,90,170,exact,exact
 Cyclic theory,150,"16,67",YES,astronomical,popularization,informal,Cleomedes,Cyclic theory,1,24022,124354,100,200,exact,approximate
-Great Commentary on Ptolemy’s Handy Tables,360,"6,67",YES,astronomical,commentary,mixed,Theon of Alexandria,Great Commentary on Ptolemy’s Handy Tables,1,34869,176324,320,400,exact,exact
+Great Commentary on Ptolemyâ€™s Handy Tables,360,"6,67",YES,astronomical,commentary,mixed,Theon of Alexandria,Great Commentary on Ptolemyâ€™s Handy Tables,1,34869,176324,320,400,exact,exact
 Introduction to the phaenomena,-40,"6,67",YES,astronomical,popularization,informal,Geminus,Introduction to the phaenomena,1,20169,104721,-80,0,exact,exact
-Little Commentary on Ptolemy’s Handy Tables,360,"6,67",YES,astronomical,commentary,mixed,Theon of Alexandria,Little Commentary on Ptolemy’s Handy Tables,1,16228,86961,320,400,exact,exact
+Little Commentary on Ptolemyâ€™s Handy Tables,360,"6,67",YES,astronomical,commentary,mixed,Theon of Alexandria,Little Commentary on Ptolemyâ€™s Handy Tables,1,16228,86961,320,400,exact,exact
 On a moved sphere,-270,"16,67",YES,astronomical,treatise,canonical,Autolycus,On a moved sphere,1,4398,18966,-320,-220,exact,approximate
-on Aratus’ Phaenomena,-140,"6,67",YES,astronomical,commentary,informal,Hipparchus,on Aratus’ Phaenomena,1,28806,140804,-180,-100,exact,exact
-"on Ptolemy’s Almagest I-III,VII-XIII",320,"6,67",YES,astronomical,commentary,mixed,Pappus,on Ptolemy’s Almagest,"0,85",333856,1500224,280,360,approximate,exact
-on Ptolemy’s Almagest I-IV,360,"6,67",YES,astronomical,commentary,mixed,Theon of Alexandria,on Ptolemy’s Almagest,"0,31",145266,692874,320,400,exact,exact
-on Ptolemy’s Almagest V-VI,320,"6,67",YES,astronomical,commentary,mixed,Pappus,on Ptolemy’s Almagest,"0,15",60701,272768,280,360,exact,exact
-on Ptolemy’s Almagest V-XIII,360,"6,67",YES,astronomical,commentary,mixed,Theon of Alexandria,on Ptolemy’s Almagest,"0,69",326849,1558967,320,400,approximate,exact
-on Ptolemy’s Handy Tables,620,"6,67",YES,astronomical,commentary,mixed,Stephanus,on Ptolemy’s Handy Tables,1,24333,118044,580,660,exact,exact
+on Aratusâ€™ Phaenomena,-140,"6,67",YES,astronomical,commentary,informal,Hipparchus,on Aratusâ€™ Phaenomena,1,28806,140804,-180,-100,exact,exact
+"on Ptolemyâ€™s Almagest I-III,VII-XIII",320,"6,67",YES,astronomical,commentary,mixed,Pappus,on Ptolemyâ€™s Almagest,"0,85",333856,1500224,280,360,approximate,exact
+on Ptolemyâ€™s Almagest I-IV,360,"6,67",YES,astronomical,commentary,mixed,Theon of Alexandria,on Ptolemyâ€™s Almagest,"0,31",145266,692874,320,400,exact,exact
+on Ptolemyâ€™s Almagest V-VI,320,"6,67",YES,astronomical,commentary,mixed,Pappus,on Ptolemyâ€™s Almagest,"0,15",60701,272768,280,360,exact,exact
+on Ptolemyâ€™s Almagest V-XIII,360,"6,67",YES,astronomical,commentary,mixed,Theon of Alexandria,on Ptolemyâ€™s Almagest,"0,69",326849,1558967,320,400,approximate,exact
+on Ptolemyâ€™s Handy Tables,620,"6,67",YES,astronomical,commentary,mixed,Stephanus,on Ptolemyâ€™s Handy Tables,1,24333,118044,580,660,exact,exact
 On risings and settings,-270,"16,67",YES,astronomical,treatise,canonical,Autolycus,On risings and settings,1,10174,45729,-320,-220,exact,approximate
 On the magnitudes and distances of the Sun and the Moon,-280,"6,67",YES,astronomical,treatise,canonical,Aristarchus,On the magnitudes and distances of the Sun and the Moon,1,7037,27460,-320,-240,exact,exact
 On the use of the astrolabe,530,"6,67",YES,astronomical,popularization,informal,Philoponus,On the use of the astrolabe,1,7755,39964,490,570,exact,exact
@@ -95,12 +95,12 @@ Liber geeponicus,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (
 Measures of marbles and timber,200,"33,33",YES,geometrical,compilation,algorithmic,Didymus,Measures of marbles and timber,1,1344,6388,100,300,exact,approximate
 metrological compilation,200,"33,33",YES,geometrical,compilation,algorithmic,Diophanes,metrological compilation,1,3211,15629,100,300,exact,approximate
 metrological papyri,400,"173,21",NO,geometrical,compilation,algorithmic,Anonymous,metrological papyri,1,10000,45000,100,700,approximate,approximate
-on Apollonius’ Conics,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Apollonius’ Conics,1,20049,81603,470,550,exact,exact
-on Archimedes’ Equilibrium of planes,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Archimedes’ Equilibrium of planes,1,7224,28762,470,550,exact,exact
-on Archimedes’ Measurement of a circle,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Archimedes’ Measurement of a circle,1,3187,13869,470,550,exact,exact
-on Archimedes’ Sphere and cylinder,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Archimedes’ Sphere and cylinder,1,29905,118656,470,550,exact,exact
-on Euclid’s Data,490,"6,67",YES,geometrical,commentary,informal,Marinus,on Euclid’s Data,1,2561,13279,450,530,exact,exact
-On Euclid’s Elements I,"448,5","6,08",YES,geometrical,commentary,mixed,Proclus,On Euclid’s Elements I,1,81543,406150,412,485,exact,exact
+on Apolloniusâ€™ Conics,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Apolloniusâ€™ Conics,1,20049,81603,470,550,exact,exact
+on Archimedesâ€™ Equilibrium of planes,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Archimedesâ€™ Equilibrium of planes,1,7224,28762,470,550,exact,exact
+on Archimedesâ€™ Measurement of a circle,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Archimedesâ€™ Measurement of a circle,1,3187,13869,470,550,exact,exact
+on Archimedesâ€™ Sphere and cylinder,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Archimedesâ€™ Sphere and cylinder,1,29905,118656,470,550,exact,exact
+on Euclidâ€™s Data,490,"6,67",YES,geometrical,commentary,informal,Marinus,on Euclidâ€™s Data,1,2561,13279,450,530,exact,exact
+On Euclidâ€™s Elements I,"448,5","6,08",YES,geometrical,commentary,mixed,Proclus,On Euclidâ€™s Elements I,1,81543,406150,412,485,exact,exact
 On measures,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),On measures,1,5027,23847,200,700,exact,approximate
 On surprising mechanisms,494,"6,67",YES,geometrical,treatise,mixed,Anthemius,On surprising mechanisms,1,1982,9510,454,534,exact,exact
 On the comparison of dodecahedron and icosahedron A,-200,"6,67",YES,geometrical,treatise,canonical,Apollonius,On the comparison of dodecahedron and icosahedron,1,3721,16153,-240,-160,approximate,exact
