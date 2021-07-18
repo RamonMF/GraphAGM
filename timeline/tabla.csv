@@ -1,3 +1,4 @@
 work,mu,sigma,gauss,content,genre,style,author,works,books,words,chars,datebegin,dateend,data,date
-arithmetical papyri,400,"173,21",NO,arithmetical,compilation,algorithmic,Anonymous,1,NA,10000,45000,100,700,approximate,approximate
-astronomical papyri,400,"173,21",NO,astronomical,compilation,algorithmic,Anonymous,1,NA,10000,45000,100,700,approximate,approximate
+scholia to Catoptrics,600,"57,74",NO,technical,compilation,mixed,Anonymous,1,NA,3055,12128,500,700,exact,approximate
+scholia to Optics a,600,"57,74",NO,technical,compilation,mixed,Anonymous,1,NA,3666,15137,500,700,exact,approximate
+scholia to Optics b,600,"57,74",NO,technical,compilation,mixed,Anonymous,1,NA,6307,26400,500,700,exact,approximate
