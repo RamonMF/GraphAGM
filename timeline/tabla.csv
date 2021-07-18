@@ -1,11 +1,2 @@
 work,mu,sigma,gauss,content,genre,style,author,works,books,Chars,datebegin,dateend,data,date,
 On burning mirrors,-160,"6,67",YES,geometrical,treatise,canonical,Diocles,On burning mirrors,1,3970,11901,-200,-120,approximate,exact
-Planisphere,130,"6,67",YES,astronomical,treatise,canonical,Ptolemy,Planisphere,1,7110,27001,90,170,approximate,exact
-Stomachion,"-249,5","6,25",YES,geometrical,treatise,canonical,Archimedes,Stomachion,1,7110,27001,-287,-212,approximate,exact
-Division of figures,-280,"6,67",YES,geometrical,treatise,canonical,Euclid,Division of figures,1,10250,42101,-320,-240,approximate,exact
-On mirrors,50,"16,67",YES,technical,treatise,canonical,Hero of Alexandria,On mirrors,1,10250,42101,0,100,approximate,approximate
-on Euclid’s Elements X,320,"6,67",YES,geometrical,commentary,mixed,Pappus,on Euclid’s Elements X,1,11820,49651,280,360,approximate,exact
-On contacts,-200,"6,67",YES,geometrical,treatise,canonical,Apollonius,On contacts,1,19670,87401,-240,-160,approximate,exact
-Determinate section,-200,"6,67",YES,geometrical,treatise,canonical,Apollonius,Determinate section,1,26892,122131,-240,-160,approximate,exact
-Spherics M,100,"6,67",YES,geometrical,treatise,canonical,Menelaus,Spherics,1,27520,125151,60,140,approximate,exact
-Mechanics,50,"16,67",YES,technical,treatise,canonical,Hero of Alexandria,Mechanics,1,30974,141761,0,100,approximate,approximate
