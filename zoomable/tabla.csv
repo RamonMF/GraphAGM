@@ -1,14 +1,14 @@
 work,mu,sigma,gauss,content,genre,style,author,works,books,words,chars,datebegin,dateend,data,date
-arithmetical papyri,400,"173,21",NO,arithmetical,compilation,algorithmic,Anonymous,1,NA,10000,45000,100,700,approximate,approximate
-astronomical papyri,400,"173,21",NO,astronomical,compilation,algorithmic,Anonymous,1,NA,10000,45000,100,700,approximate,approximate
-Geodesy,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),1,1,4831,23930,200,700,exact,approximate
-Geometrica,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),1,NA,32923,155171,200,700,exact,approximate
-Liber geeponicus,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),1,1,6534,31824,200,700,exact,approximate
-Measures of marbles and timber,200,"57,74",SI,geometrical,compilation,algorithmic,Didymus,1,1,1344,6388,100,300,exact,approximate
-metrological compilation,200,"57,74",SI,geometrical,compilation,algorithmic,Diophanes,1,1,3211,15629,100,300,exact,approximate
-metrological papyri,400,"173,21",NO,geometrical,compilation,algorithmic,Anonymous,1,NA,10000,45000,100,700,approximate,approximate
-On measures,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),1,1,5027,23847,200,700,exact,approximate
-Stereometrica,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),1,NA,17529,80573,200,700,exact,approximate
+arithmetical papyri,400,"173,21",NO,arithmetical,compilation,canonical,Anonymous,1,NA,10000,45000,100,700,approximate,approximate
+astronomical papyri,400,"173,21",NO,astronomical,compilation,canonical,Anonymous,1,NA,10000,45000,100,700,approximate,approximate
+Geodesy,450,"144,34",NO,geometrical,compilation,canonical,Anonymous metrology,1,1,4831,23930,200,700,exact,approximate
+Geometrica,450,"144,34",NO,geometrical,compilation,canonical,Anonymous metrology,1,NA,32923,155171,200,700,exact,approximate
+Liber geeponicus,450,"144,34",NO,geometrical,compilation,canonical,Anonymous metrology,1,1,6534,31824,200,700,exact,approximate
+Measures of marbles and timber,200,"57,74",SI,geometrical,compilation,canonical,Didymus,1,1,1344,6388,100,300,exact,approximate
+metrological compilation,200,"57,74",SI,geometrical,compilation,canonical,Diophanes,1,1,3211,15629,100,300,exact,approximate
+metrological papyri,400,"173,21",NO,geometrical,compilation,canonical,Anonymous,1,NA,10000,45000,100,700,approximate,approximate
+On measures,450,"144,34",NO,geometrical,compilation,canonical,Anonymous metrology,1,1,5027,23847,200,700,exact,approximate
+Stereometrica,450,"144,34",NO,geometrical,compilation,canonical,Anonymous metrology,1,NA,17529,80573,200,700,exact,approximate
 On burning mirrors,-160,"23,09",SI,geometrical,treatise,canonical,Diocles,1,1,3970,11901,-200,-120,approximate,exact
 Planisphere,130,"23,09",SI,astronomical,treatise,canonical,Ptolemy,1,1,7110,27001,90,170,approximate,exact
 Stomachion,"-249,5","21,65",SI,geometrical,treatise,canonical,Archimedes,1,1,7110,27001,-287,-212,approximate,exact
@@ -57,7 +57,7 @@ On floating bodies,"-249,5","21,65",SI,geometrical,treatise,canonical,Archimedes
 Method,"-249,5","21,65",SI,geometrical,treatise,canonical,Archimedes,1,1,9848,45744,-287,-212,exact,exact
 Collection II-VII,320,"23,09",SI,geometrical,treatise,canonical,Pappus,"0,86",6,125153,491608,280,360,exact,exact
 Data alternative proofs,150,"202,07",NO,geometrical,compilation,canonical,Anonymous,1,NA,4289,15932,-200,500,exact,approximate
-Definitions,450,"144,34",NO,geometrical,compilation,canonical,Anonymous (metrology),1,1,14597,76610,200,700,exact,approximate
+Definitions,450,"144,34",NO,geometrical,compilation,canonical,Anonymous metrology,1,1,14597,76610,200,700,exact,approximate
 Elements alternative proofs,150,"202,07",NO,geometrical,compilation,canonical,Anonymous,1,NA,10759,40252,-200,500,exact,approximate
 Elements XI-XII recensio b,-280,"23,09",NO,geometrical,treatise,canonical,Anonymous,1,NA,10154,41905,-320,-240,exact,approximate
 On the comparison of dodecahedron and icosahedron A,-200,"23,09",SI,geometrical,treatise,canonical,Apollonius,1,1,3721,16153,-240,-160,approximate,exact
