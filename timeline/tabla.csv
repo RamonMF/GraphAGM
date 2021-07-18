@@ -84,14 +84,14 @@ On floating bodies,"-249,5","6,25",YES,geometrical,treatise,canonical,Archimedes
 Method,"-249,5","6,25",YES,geometrical,treatise,canonical,Archimedes,Method,1,9848,45744,-287,-212,exact,exact
 Collection II-VII,320,"6,67",YES,geometrical,treatise,canonical,Pappus,Collection,"0,86",125153,491608,280,360,exact,exact
 Data alternative proofs,150,"202,07",NO,geometrical,compilation,canonical,Anonymous,Data alternative proofs,1,4289,15932,-200,500,exact,approximate
-Definitions,450,"144,34",NO,geometrical,compilation,canonical,Anonymous (metrology),Definitions,1,14597,76610,200,700,exact,approximate
+Definitions,450,"144,34",NO,geometrical,compilation,canonical,Anonymous metrology,Definitions,1,14597,76610,200,700,exact,approximate
 Elements alternative proofs,150,"202,07",NO,geometrical,compilation,canonical,Anonymous,Elements alternative proofs,1,10759,40252,-200,500,exact,approximate
 Elements XI-XII recensio b,-280,"23,09",NO,geometrical,treatise,canonical,Anonymous,Elements XI-XII recensio b,1,10154,41905,-320,-240,exact,approximate
 Elements XV,500,"11,55",NO,geometrical,treatise,mixed,Anonymous,Elements XV,1,2735,12519,480,520,exact,approximate
 Fragmentum mathematicum bobiense,150,"144,34",NO,geometrical,treatise,mixed,Anonymous,Fragmentum mathematicum bobiense,1,1057,4938,-100,400,exact,approximate
-Geodesy,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),Geodesy,1,4831,23930,200,700,exact,approximate
-Geometrica,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),Geometrica,1,32923,155171,200,700,exact,approximate
-Liber geeponicus,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),Liber geeponicus,1,6534,31824,200,700,exact,approximate
+Geodesy,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous metrology,Geodesy,1,4831,23930,200,700,exact,approximate
+Geometrica,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous metrology,Geometrica,1,32923,155171,200,700,exact,approximate
+Liber geeponicus,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous metrology,Liber geeponicus,1,6534,31824,200,700,exact,approximate
 Measures of marbles and timber,200,"33,33",YES,geometrical,compilation,algorithmic,Didymus,Measures of marbles and timber,1,1344,6388,100,300,exact,approximate
 metrological compilation,200,"33,33",YES,geometrical,compilation,algorithmic,Diophanes,metrological compilation,1,3211,15629,100,300,exact,approximate
 metrological papyri,400,"173,21",NO,geometrical,compilation,algorithmic,Anonymous,metrological papyri,1,10000,45000,100,700,approximate,approximate
@@ -101,7 +101,7 @@ on Archimedes’ Measurement of a circle,510,"6,67",YES,geometrical,commentary,m
 on Archimedes’ Sphere and cylinder,510,"6,67",YES,geometrical,commentary,mixed,Eutocius,on Archimedes’ Sphere and cylinder,1,29905,118656,470,550,exact,exact
 on Euclid’s Data,490,"6,67",YES,geometrical,commentary,informal,Marinus,on Euclid’s Data,1,2561,13279,450,530,exact,exact
 On Euclid’s Elements I,"448,5","6,08",YES,geometrical,commentary,mixed,Proclus,On Euclid’s Elements I,1,81543,406150,412,485,exact,exact
-On measures,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),On measures,1,5027,23847,200,700,exact,approximate
+On measures,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous metrology,On measures,1,5027,23847,200,700,exact,approximate
 On surprising mechanisms,494,"6,67",YES,geometrical,treatise,mixed,Anthemius,On surprising mechanisms,1,1982,9510,454,534,exact,exact
 On the comparison of dodecahedron and icosahedron A,-200,"6,67",YES,geometrical,treatise,canonical,Apollonius,On the comparison of dodecahedron and icosahedron,1,3721,16153,-240,-160,approximate,exact
 On the comparison of dodecahedron and icosahedron H,-160,"6,67",YES,geometrical,treatise,canonical,Hypsicles,On the comparison of dodecahedron and icosahedron,1,3721,16153,-200,-120,exact,exact
@@ -110,7 +110,7 @@ On the measurement of a circle,"-249,5","6,25",YES,geometrical,treatise,canonica
 scholia to Data,600,"57,74",NO,geometrical,compilation,mixed,Anonymous,scholia to Data,1,12633,48935,500,700,exact,approximate
 scholia to Data and Catoptrics,600,"57,74",NO,geometrical,compilation,mixed,Anonymous,scholia to Data and Catoptrics,1,567,2601,500,700,exact,approximate
 scholia to Elements,600,"57,74",NO,geometrical,compilation,mixed,Anonymous,scholia to Elements,1,131042,577640,500,700,exact,approximate
-Stereometrica,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous (metrology),Stereometrica,1,17529,80573,200,700,exact,approximate
+Stereometrica,450,"144,34",NO,geometrical,compilation,algorithmic,Anonymous metrology,Stereometrica,1,17529,80573,200,700,exact,approximate
 Optics E,-280,"6,67",YES,technical,treatise,canonical,Euclid,Optics,1,11102,46690,-320,-240,exact,exact
 Optics recension b,40,"207,85",NO,technical,treatise,canonical,Anonymous,Optics recension b,1,10147,43415,-320,400,exact,approximate
 Catoptrics,-280,"6,67",YES,technical,treatise,canonical,Euclid,Catoptrics,1,5292,21423,-320,-240,exact,exact
