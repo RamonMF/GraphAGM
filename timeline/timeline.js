@@ -81,7 +81,7 @@ children: [{"name": "Global-CDF"},
 var w = 1130;
 var h = 400;
 var timespanMin=-450;
-var timespanMax=701;
+var timespanMax=750;
 var yearmin=timespanMin;
 var yearmax=timespanMax;
 var step=1; //The lower set of this value the slower turns the program. 
