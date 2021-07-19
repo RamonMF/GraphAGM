@@ -80,7 +80,7 @@ children: [{"name": "Global-CDF"},
 
 var w = 1130;
 var h = 400;
-var timespanMin=-380;
+var timespanMin=-401;
 var timespanMax=701;
 var yearmin=timespanMin;
 var yearmax=timespanMax;
